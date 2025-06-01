@@ -7,12 +7,6 @@ Aqui você encontrará uma série de projetos desenvolvidos com **HTML**, **CSS*
 
 ---
 
-Objetivo
-
-Este repositório tem como principal objetivo **documentar meu aprendizado prático**, permitindo revisitar conceitos, mostrar minha evolução e, quem sabe, inspirar outras pessoas que também estão começando nessa área.
-
----
-
 ## 🛠 Tecnologias Utilizadas
 
 - **HTML5** – estruturação das páginas
@@ -38,6 +32,9 @@ Cada pasta representa um projeto independente. A estrutura geral é:
 | `jogo-da-velha`     | Jogo da velha para dois jogadores                 | 🔜 Em breve |
 | `quiz-javascript`   | Jogo de perguntas e respostas com pontuação       | 🔜 Em breve |
 
+
+Para acessar o projeto "Lâmpada", clique no seguinte link : 
+https://isadora-kairala.github.io/JavaScript-Projects/Lampada/
 
 
 ---
