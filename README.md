@@ -43,7 +43,7 @@ Clique para acessar o projeto : [Lâmpada](https://isadora-kairala.github.io/Jav
 Se quiser trocar ideias, sugestões ou colaborações:
 
 
-- LinkedIn: Isadora Réquer Kairala ([https://www.linkedin](https://www.linkedin.com/in/isadora-r%C3%A9quer-630530359/))
+- LinkedIn: Isadora Réquer Kairala [https://www.linkedin](https://www.linkedin.com/in/isadora-r%C3%A9quer-630530359/)
 
 ---
 
