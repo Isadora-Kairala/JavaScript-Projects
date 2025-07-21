@@ -33,8 +33,7 @@ Cada pasta representa um projeto independente. A estrutura geral é:
 | `quiz-javascript`   | Jogo de perguntas e respostas com pontuação       | 🔜 Em breve |
 
 
-Para acessar o projeto "Lâmpada", clique no seguinte link : 
-https://isadora-kairala.github.io/JavaScript-Projects/Lampada/
+Clique para acessar o projeto : ([Lâmpada](https://isadora-kairala.github.io/JavaScript-Projects/Lampada/))
 
 
 ---
