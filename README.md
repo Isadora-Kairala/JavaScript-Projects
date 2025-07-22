@@ -37,7 +37,7 @@ Cada pasta representa um projeto independente. A estrutura geral é:
 ## 🌐 Acesse os Projetos Concluídos
 
 - 🔗 [Lâmpada](https://isadora-kairala.github.io/JavaScript-Projects/Lampada/)
-- 🔗 [Relógio Digital](https://LINK_DO_PROJETO_RELOGIO)
+- 🔗 [Relógio Digital](https://isadora-kairala.github.io/JavaScript-Projects/Rel%C3%B3gio/)
 
 
 ---
