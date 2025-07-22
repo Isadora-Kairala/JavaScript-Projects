@@ -25,15 +25,19 @@ Cada pasta representa um projeto independente. A estrutura geral é:
 
 | Projeto             | Descrição                                         | Status       |
 |---------------------|---------------------------------------------------|--------------|
-| `lâmpada`           | Lâmpada que liga e desliga                        | ✅ Concluído|
-| `calculadora`       | Calculadora básica com operações matemáticas      | 🔜 Em breve |
-| `to-do-list`        | Lista de tarefas com adição e remoção de itens    | 🔜 Em breve |
-| `relogio-digital`   | Relógio que exibe a hora em tempo real            | 🔜 Em breve |
-| `jogo-da-velha`     | Jogo da velha para dois jogadores                 | 🔜 Em breve |
-| `quiz-javascript`   | Jogo de perguntas e respostas com pontuação       | 🔜 Em breve |
+| `Lâmpada`           | Lâmpada que liga e desliga                        | ✅ Concluído |
+| `Relogio-Digital`   | Relógio que exibe a hora em tempo real            | ✅ Concluído |
+| `Calculadora`       | Calculadora básica com operações matemáticas      | 🔜 Em breve  |
+| `To-Do-List`        | Lista de tarefas com adição e remoção de itens    | 🔜 Em breve  |
+| `Jogo-Da-Velha`     | Jogo da velha para dois jogadores                 | 🔜 Em breve  |
+| `Quiz-Javascript`   | Jogo de perguntas e respostas com pontuação       | 🔜 Em breve  |
 
+---
 
-Clique para acessar o projeto : [Lâmpada](https://isadora-kairala.github.io/JavaScript-Projects/Lampada/)
+## 🌐 Acesse os Projetos Concluídos
+
+- 🔗 [Lâmpada](https://isadora-kairala.github.io/JavaScript-Projects/Lampada/)
+- 🔗 [Relógio Digital](https://LINK_DO_PROJETO_RELOGIO)
 
 
 ---
@@ -43,10 +47,10 @@ Clique para acessar o projeto : [Lâmpada](https://isadora-kairala.github.io/Jav
 Se quiser trocar ideias, sugestões ou colaborações:
 
 
-- LinkedIn: Isadora Réquer Kairala [https://www.linkedin](https://www.linkedin.com/in/isadora-r%C3%A9quer-630530359/)
+- LinkedIn: [Isadora Réquer Kairala](https://www.linkedin.com/in/isadora-r%C3%A9quer-630530359/)
 
 ---
 
-_Feito com 💻 e muita curiosidade por uma estudante apaixonada por tecnologia._
+_Feito com  muita curiosidade por uma estudante apaixonada por tecnologia._
 
 
