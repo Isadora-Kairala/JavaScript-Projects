@@ -47,7 +47,7 @@ Cada pasta representa um projeto independente. A estrutura geral é:
 Se quiser trocar ideias, sugestões ou colaborações:
 
 
-- LinkedIn: [Isadora Réquer Kairala](https://www.linkedin.com/in/isadora-r%C3%A9quer-630530359/)
+- LinkedIn: [Isadora Réquer Kairala](https://www.linkedin.com/in/isadora-kairala-630530359)
 
 ---
 
