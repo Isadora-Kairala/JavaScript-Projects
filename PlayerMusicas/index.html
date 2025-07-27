@@ -1,0 +1,43 @@
+    <!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css">
+         <link rel="stylesheet" href="styles.css"> <!-- ESSE DEVE ESTAR POR ULTIMO PARA AS OUTRAS TAGS NAO SOBREESCREVEREM  O CSS !!!!!!!!-->
+        <title>Player Spotify</title>
+    </head>
+    <body>
+        <img src="imagens/gnarly.jpg" alt="gnarly - Katseye">
+
+        <div class="descricao">
+            <h2>Gnarly</h2>
+            <i>KATSEYE</i>
+         </div><!-- caixa-->
+
+
+         <div class="duracao">
+              <div class="barra">
+                  <progress value="0" max="1"> </progress>
+                  <div class="ponto"></div>
+              </div>
+
+              <div class="tempo">
+                <p class="inicio"> 0:00 </p>
+                <p class="fim"> 3:40</p>
+              </div>  
+         </div>
+         <div class="player">
+            <i class="fa-solid fa-backward-step setas anterior"></i>
+            <i class="fa-solid fa-circle-play botao-play"></i>
+            <i class="fa-solid fa-circle-pause botao-pause"></i>
+            <i class="fa-solid fa-forward-step setas proxima"></i>
+            
+         </div>
+         <audio src="musicas/KATSEYE 캣츠아이.mp3" ></audio>
+         <script src="scripts.js"> </script>
+         
+    </body>
+    </html>

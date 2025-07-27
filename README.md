@@ -1,3 +1,29 @@
+
+
+## 📌 Projetos Desenvolvidos
+
+| Projeto             | Descrição                                         | Status       |
+|---------------------|---------------------------------------------------|--------------|
+| `Player-Musicas`    | Tocador de músicas com capa, tempo e controles    | ✅ Concluído |
+| `Relogio-Digital`   | Relógio que exibe a hora em tempo real            | ✅ Concluído |
+| `Lâmpada`           | Lâmpada que liga e desliga                        | ✅ Concluído |
+| `Calculadora`       | Calculadora básica com operações matemáticas      | 🔜 Em breve  |
+| `To-Do-List`        | Lista de tarefas com adição e remoção de itens    | 🔜 Em breve  |
+| `Jogo-Da-Velha`     | Jogo da velha para dois jogadores                 | 🔜 Em breve  |
+| `Quiz-Javascript`   | Jogo de perguntas e respostas com pontuação       | 🔜 Em breve  |
+
+---
+
+## 🌐 Acesse os Projetos Concluídos
+
+- 🔗 [Player de Músicas](https://isadora-kairala.github.io/JavaScript-Projects/PlayerMusicas/)
+- 🔗 [Relógio Digital](https://isadora-kairala.github.io/JavaScript-Projects/Relógio/) 
+- 🔗 [Lâmpada](https://isadora-kairala.github.io/JavaScript-Projects/Lampada/)
+
+
+---
+
+
 Aprendizado em JavaScript
 
 Bem-vindo(a) ao meu repositório de **projetos em JavaScript**!  
@@ -16,32 +42,6 @@ Aqui você encontrará uma série de projetos desenvolvidos com **HTML**, **CSS*
 
 ---
 
- Organização dos Projetos
-
-Cada pasta representa um projeto independente. A estrutura geral é:
-
-
-## 📌 Projetos Desenvolvidos
-
-| Projeto             | Descrição                                         | Status       |
-|---------------------|---------------------------------------------------|--------------|
-| `Lâmpada`           | Lâmpada que liga e desliga                        | ✅ Concluído |
-| `Relogio-Digital`   | Relógio que exibe a hora em tempo real            | ✅ Concluído |
-| `Calculadora`       | Calculadora básica com operações matemáticas      | 🔜 Em breve  |
-| `To-Do-List`        | Lista de tarefas com adição e remoção de itens    | 🔜 Em breve  |
-| `Jogo-Da-Velha`     | Jogo da velha para dois jogadores                 | 🔜 Em breve  |
-| `Quiz-Javascript`   | Jogo de perguntas e respostas com pontuação       | 🔜 Em breve  |
-
----
-
-## 🌐 Acesse os Projetos Concluídos
-
-- 🔗 [Lâmpada](https://isadora-kairala.github.io/JavaScript-Projects/Lampada/)
-- 🔗 [Relógio Digital](https://LINK_DO_PROJETO_RELOGIO)
-
-
----
-
 ## 💬 Contato
 
 Se quiser trocar ideias, sugestões ou colaborações:
@@ -51,6 +51,6 @@ Se quiser trocar ideias, sugestões ou colaborações:
 
 ---
 
-_Feito com  muita curiosidade por uma estudante apaixonada por tecnologia._
+🖥️_Feito com muita curiosidade por uma estudante apaixonada por tecnologia._👩‍💻
 
 

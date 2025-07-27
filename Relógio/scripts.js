@@ -16,7 +16,7 @@ function corrigindoHorariozinho(numero){
     }
     return numero;
 }
-atualizarTempinho(); /*começar o script ja chamando a funcao*/
-setInterval(atualizarTempinho, 1000);
+atualizarTempinho(); /*começar o script ja chamando a funcao para quando atualizar a pagina*/  
+setInterval(atualizarTempinho, 1000); /* 1000 mm são 1 segundo, ou seja, atualiza de 1 em 1 segundo*/
 
 console.log(horario)
