@@ -1,24 +1,26 @@
 
-
 ## 📌 Projetos Desenvolvidos
 
-| Projeto             | Descrição                                         | Status       |
-|---------------------|---------------------------------------------------|--------------|
-| `Player-Musicas`    | Tocador de músicas com capa, tempo e controles    | ✅ Concluído |
-| `Relogio-Digital`   | Relógio que exibe a hora em tempo real            | ✅ Concluído |
-| `Lâmpada`           | Lâmpada que liga e desliga                        | ✅ Concluído |
-| `Calculadora`       | Calculadora básica com operações matemáticas      | 🔜 Em breve  |
-| `To-Do-List`        | Lista de tarefas com adição e remoção de itens    | 🔜 Em breve  |
-| `Jogo-Da-Velha`     | Jogo da velha para dois jogadores                 | 🔜 Em breve  |
-| `Quiz-Javascript`   | Jogo de perguntas e respostas com pontuação       | 🔜 Em breve  |
+| Projeto                 | Descrição                                              | Status       |
+|-------------------------|--------------------------------------------------------|--------------|
+| `Player-Musicas`        | Tocador de músicas com capa, tempo e controles         | ✅ Concluído |
+| `Soundboard-Ratinho`    | Painel de sons do Ratinho com botões interativos       | ✅ Concluído |
+| `Relogio-Digital`       | Relógio que exibe a hora em tempo real                 | ✅ Concluído |
+| `Lâmpada`               | Lâmpada que liga e desliga                             | ✅ Concluído |
+| `Calculadora`           | Calculadora básica com operações matemáticas           | 🔜 Em breve  |
+| `To-Do-List`            | Lista de tarefas com adição e remoção de itens         | 🔜 Em breve  |
+| `Jogo-Da-Velha`         | Jogo da velha para dois jogadores                      | 🔜 Em breve  |
+| `Quiz-Javascript`       | Jogo de perguntas e respostas com pontuação            | 🔜 Em breve  |
 
 ---
 
 ## 🌐 Acesse os Projetos Concluídos
 
 - 🔗 [Player de Músicas](https://isadora-kairala.github.io/JavaScript-Projects/PlayerMusicas/)
+- 🔗 [Soundboard do Ratinho](https://isadora-kairala.github.io/JavaScript-Projects/Soundboard-Ratinho/)
 - 🔗 [Relógio Digital](https://isadora-kairala.github.io/JavaScript-Projects/Relógio/) 
 - 🔗 [Lâmpada](https://isadora-kairala.github.io/JavaScript-Projects/Lampada/)
+
 
 
 ---
