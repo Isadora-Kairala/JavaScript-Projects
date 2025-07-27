@@ -17,7 +17,7 @@
 ## 🌐 Acesse os Projetos Concluídos
 
 - 🔗 [Player de Músicas](https://isadora-kairala.github.io/JavaScript-Projects/PlayerMusicas/)
-- 🔗 [Soundboard do Ratinho](https://isadora-kairala.github.io/JavaScript-Projects/Soundboard-Ratinho/)
+- 🔗 [Soundboard do Ratinho](https://isadora-kairala.github.io/JavaScript-Projects/Soundboard%20do%20Ratinho/)
 - 🔗 [Relógio Digital](https://isadora-kairala.github.io/JavaScript-Projects/Relógio/) 
 - 🔗 [Lâmpada](https://isadora-kairala.github.io/JavaScript-Projects/Lampada/)
 
